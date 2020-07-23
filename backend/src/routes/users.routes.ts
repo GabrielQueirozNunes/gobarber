@@ -20,4 +20,6 @@ usersRouter.post('/', async (request, response) => {
   }
 });
 
+// usersRouter.patch('/avatar', (request, response) => {});
+
 export default usersRouter;
