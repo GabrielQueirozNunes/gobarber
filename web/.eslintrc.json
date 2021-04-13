@@ -29,6 +29,7 @@
         "react-hooks"
     ],
     "rules": {
+      "camelcase": "off",
       "prettier/prettier": "error",
       "react/prop-types": "off",
       "@typescript-eslint/ban-types": "off",
