@@ -29,6 +29,7 @@
         "prettier"
     ],
     "rules": {
+      "import/no-duplicates":"off",
       "import/no-extraneous-dependencies": "off",
       "camelcase":"off",
       "prettier/prettier": "error",
