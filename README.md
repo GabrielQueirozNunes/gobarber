@@ -26,6 +26,10 @@
 ## About The Project
 
 ![GoBarber web logon](./assets/GoBarberWeb/Logon.png)
+![GoBarber web dashboard](./assets/GoBarberWeb/Dashboard.png)
+
+![GoBarber mobile cadastro](./assets/GoBarberMobile/Cadastrar.png)
+![GoBarber mobile logon](./assets/GoBarberWeb/Lista.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
