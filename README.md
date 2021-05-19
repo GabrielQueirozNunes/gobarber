@@ -5,6 +5,11 @@
     <img src="web/src/assets/logo.svg" alt="Logo" height="180">
   </a>
 
+  <p align="center">
+    A modern software to manage appointments from a barbershop.
+  </p>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
