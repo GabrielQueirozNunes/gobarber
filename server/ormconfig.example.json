@@ -3,15 +3,15 @@
     "name": "default",
     "type": "postgres",
     "host": "localhost",
-    "port": 5433,
+    "port": 5432,
     "username": "postgres",
     "password": "docker",
     "database": "postgres",
     "entities": [
-      "./dist/modules/**/infra/typeorm/entities/*.ts"
+      "./src/modules/**/infra/typeorm/entities/*.ts"
     ],
     "migrations": [
-      "./dist/shared/infra/typeorm/migrations/*.ts"
+      "./src/shared/infra/typeorm/migrations/*.ts"
     ],
     "cli": {
       "migrationsDir": "./src/shared/infra/typeorm/migrations"
@@ -25,7 +25,7 @@
     "database": "gobarber",
     "useUnifiedTopology": true,
     "entities": [
-      "./dist/modules/**/infra/typeorm/schemas/*.ts"
+      "./src/modules/**/infra/typeorm/schemas/*.ts"
     ]
   }
 ]
